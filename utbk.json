@@ -1,0 +1,668 @@
+[
+    {
+      "No.": "1",
+      "Kode": "PTN-111",
+      "Pusat UTBK PTN": "Universitas Syiah Kuala",
+      "Alamat Pusat UTBK PTN": "Gedung ICT Center, Jl. Syekh Abdul Rauf No.2,  Darussalam, Banda Aceh",
+      "Kode POS": "23111",
+      "No Telepon Pusat UTBK PTN": "(0651) 6303969",
+      "Email Pusat UTBK PTN": "utbk@unsyiah.ac.id"
+    },
+    {
+      "No.": "2",
+      "Kode": "PTN-112",
+      "Pusat UTBK PTN": "Universitas Malikussaleh",
+      "Alamat Pusat UTBK PTN": "UPT Pusat Komputer Jl Irian No. 1 Komplek Kampus Bukit Indah, Blamg Pulo - Lhokseumawe",
+      "Kode POS": "24355",
+      "No Telepon Pusat UTBK PTN": "081227944233",
+      "Email Pusat UTBK PTN": "utbk@unimal.ac.id"
+    },
+    {
+      "No.": "3",
+      "Kode": "PTN-113",
+      "Pusat UTBK PTN": "Universitas Teuku Umar",
+      "Alamat Pusat UTBK PTN": "Universitas Teuku Umar UPT. TIK. Gedung F, Jl. Alue Peunyareng, Ujong Tanoh Darat, Meureubo, Kabupaten Aceh Barat",
+      "Kode POS": "23615",
+      "No Telepon Pusat UTBK PTN": "085262464609",
+      "Email Pusat UTBK PTN": "utbk@utu.ac.id"
+    },
+    {
+      "No.": "4",
+      "Kode": "PTN-114",
+      "Pusat UTBK PTN": "Universitas Samudra",
+      "Alamat Pusat UTBK PTN": "Ruang Kesekretariatan Penerimaan Mahasiswa Baru Gedung Biro Rektor Universitas Samudra, Meurandeh, Kota Langsa - Aceh",
+      "Kode POS": "24416",
+      "No Telepon Pusat UTBK PTN": "085296969201",
+      "Email Pusat UTBK PTN": "utbk@unsam.ac.id"
+    },
+    {
+      "No.": "5",
+      "Kode": "PTN-115",
+      "Pusat UTBK PTN": "Institut Seni Budaya Indonesia  Aceh",
+      "Alamat Pusat UTBK PTN": "Jln. Banda Aceh Medan Km. 8,5 Desa Ujong XII Kec. Ingin Jaya Kabupaten Aceh Besar",
+      "Kode POS": "23911",
+      "No Telepon Pusat UTBK PTN": "(0651) 92023",
+      "Email Pusat UTBK PTN": "utbk@isbiaceh.ac.id"
+    },
+    {
+      "No.": "6",
+      "Kode": "PTN-121",
+      "Pusat UTBK PTN": "Universitas Sumatera Utara",
+      "Alamat Pusat UTBK PTN": "Pusat Pelayanan Terpadu, Gedung Biro Pusat Administrasi Lantai 1 Kampus USU Padang Bulan, Jalan dr. T. Mansyur No. 9",
+      "Kode POS": "20155",
+      "No Telepon Pusat UTBK PTN": "082164590174\r\n 082164590173",
+      "Email Pusat UTBK PTN": "puml@usu.ac.id"
+    },
+    {
+      "No.": "7",
+      "Kode": "PTN-122",
+      "Pusat UTBK PTN": "Universitas Negeri Medan",
+      "Alamat Pusat UTBK PTN": "Ruang VIP Room Gedung Serbaguna Unimed Jalan Willem Iskandar Pasar V Medan Estate.",
+      "Kode POS": "20221",
+      "No Telepon Pusat UTBK PTN": "(0616) 613365",
+      "Email Pusat UTBK PTN": "utbk@unimed.ac.id"
+    },
+    {
+      "No.": "8",
+      "Kode": "PTN-131",
+      "Pusat UTBK PTN": "Universitas Riau",
+      "Alamat Pusat UTBK PTN": "Sekretariat UTBK SBMPTN, Gedung Rektorat Lantai 2, Kampus Bina Widya Km 12,5 Simpang Baru Pekanbaru",
+      "Kode POS": "28293",
+      "No Telepon Pusat UTBK PTN": "(0761) 63266",
+      "Email Pusat UTBK PTN": "utbk.sbmptn@unri.ac.id"
+    },
+    {
+      "No.": "9",
+      "Kode": "PTN-133",
+      "Pusat UTBK PTN": "Universitas Maritim Raja Ali Haji",
+      "Alamat Pusat UTBK PTN": "Jl Politeknik Senggarang Tanjungpinang",
+      "Kode POS": "29115",
+      "No Telepon Pusat UTBK PTN": "(0771) 4500089",
+      "Email Pusat UTBK PTN": "utbk@umrah.ac.id"
+    },
+    {
+      "No.": "10",
+      "Kode": "PTN-141",
+      "Pusat UTBK PTN": "Universitas Andalas",
+      "Alamat Pusat UTBK PTN": "Gedung Rektorat Universitas Andalas, Kampus Limau Manis Padang",
+      "Kode POS": "25163",
+      "No Telepon Pusat UTBK PTN": "(0751) 71301",
+      "Email Pusat UTBK PTN": "sekre.wr1@unand.ac.id"
+    },
+    {
+      "No.": "11",
+      "Kode": "PTN-142",
+      "Pusat UTBK PTN": "Universitas Negeri Padang",
+      "Alamat Pusat UTBK PTN": "Gedung Rektorat Lama Bagonjong Lt. 1 - Jln Prof. Dr. Hamka Air Tawar Padang",
+      "Kode POS": "25132",
+      "No Telepon Pusat UTBK PTN": "(0751) 7051260",
+      "Email Pusat UTBK PTN": "utbk@unp.ac.id"
+    },
+    {
+      "No.": "12",
+      "Kode": "PTN-143",
+      "Pusat UTBK PTN": "Institut Seni Indonesia Padang Panjang",
+      "Alamat Pusat UTBK PTN": "Gedung Rektorat Jln. Bahder Johan, Kota Padangpanjang Sumatera Barat",
+      "Kode POS": "27128",
+      "No Telepon Pusat UTBK PTN": "(0752) 82077",
+      "Email Pusat UTBK PTN": "utbk@isi- padangpanjang.ac.id"
+    },
+    {
+      "No.": "13",
+      "Kode": "PTN-151",
+      "Pusat UTBK PTN": "Universitas Jambi",
+      "Alamat Pusat UTBK PTN": "Gedung Balairung Lantai 2 Kampus UNJA Mendalo, Jl. Raya Jambi - Muara Bulian Km.15 Mendalo Indah Jambi",
+      "Kode POS": "36361",
+      "No Telepon Pusat UTBK PTN": "085382041800",
+      "Email Pusat UTBK PTN": "pusat_utbk_unja@unja.ac.id"
+    },
+    {
+      "No.": "14",
+      "Kode": "PTN-161",
+      "Pusat UTBK PTN": "Universitas Bengkulu",
+      "Alamat Pusat UTBK PTN": "Rektorat Universitas Bengkulu, Jalan WR Supratman Kandang Limun Bengkulu",
+      "Kode POS": "38371",
+      "No Telepon Pusat UTBK PTN": "(0736) 21170",
+      "Email Pusat UTBK PTN": "snmptn.utbk@unib.ac.id"
+    },
+    {
+      "No.": "15",
+      "Kode": "PTN-171",
+      "Pusat UTBK PTN": "Universitas Sriwijaya",
+      "Alamat Pusat UTBK PTN": "Gedung Graha Sriwijaya Lt. 1 Kampus UNSRI Bukit Besar Jl. Srijaya Negara Bukit Besar Palembang",
+      "Kode POS": "30139",
+      "No Telepon Pusat UTBK PTN": "(0711) 362388\r\n 082250000171",
+      "Email Pusat UTBK PTN": "utbk@unsri.ac.id"
+    },
+    {
+      "No.": "16",
+      "Kode": "PTN-181",
+      "Pusat UTBK PTN": "Universitas Bangka Belitung",
+      "Alamat Pusat UTBK PTN": "UPT TIK, Gedung Babel IV Kampus Terpadu Universitas Bangka Belitung",
+      "Kode POS": "33172",
+      "No Telepon Pusat UTBK PTN": "(0717) 422145\r\n 08127177098",
+      "Email Pusat UTBK PTN": "ubbbakk@gmail.com"
+    },
+    {
+      "No.": "17",
+      "Kode": "PTN-191",
+      "Pusat UTBK PTN": "Universitas Lampung",
+      "Alamat Pusat UTBK PTN": "Gedung UPT. TIK Unila Jl. Soemantri Brojonegoro No.1, Gedung Meneng Bandar Lampung",
+      "Kode POS": "35145",
+      "No Telepon Pusat UTBK PTN": "085357841177",
+      "Email Pusat UTBK PTN": "simanila@kpa.unila.ac.id"
+    },
+    {
+      "No.": "18",
+      "Kode": "PTN-192",
+      "Pusat UTBK PTN": "Institut Teknologi Sumatera",
+      "Alamat Pusat UTBK PTN": "Jalan Terusan Ryacudu, Desa Way Hui, Kecamatan Jati Agung, Lampung Selatan",
+      "Kode POS": "35365",
+      "No Telepon Pusat UTBK PTN": "(0721) 8030188",
+      "Email Pusat UTBK PTN": "utbk@itera.ac.id"
+    },
+    {
+      "No.": "19",
+      "Kode": "PTN-311",
+      "Pusat UTBK PTN": "Universitas Sultan Ageng Tirtayasa",
+      "Alamat Pusat UTBK PTN": "Jl. Raya Jakarta km.4 Pakupatan Serang Banten",
+      "Kode POS": "42124",
+      "No Telepon Pusat UTBK PTN": "(0254) 280330\r\n 087871261263",
+      "Email Pusat UTBK PTN": "utbk@untirta.ac.id"
+    },
+    {
+      "No.": "20",
+      "Kode": "PTN-321",
+      "Pusat UTBK PTN": "Universitas Indonesia",
+      "Alamat Pusat UTBK PTN": "Gedung Penerimaan Mahasiswa Baru (PMB) UI, Jl. Prof. Dr. Sujudi, Kampus UI Depok, Jawa Barat",
+      "Kode POS": "16424",
+      "No Telepon Pusat UTBK PTN": "(021) 7864126",
+      "Email Pusat UTBK PTN": "sekretariat.pmb@ui.ac.id"
+    },
+    {
+      "No.": "21",
+      "Kode": "PTN-323",
+      "Pusat UTBK PTN": "Universitas Negeri Jakarta",
+      "Alamat Pusat UTBK PTN": "Kampus A UNJ, Gedung D, Pustikom Lt 1. Jl. Rawamangun Muka, RT.11/RW.14, Rawamangun, Pulo Gadung, Kota Jakarta Timur.",
+      "Kode POS": "13220",
+      "No Telepon Pusat UTBK PTN": "082244413433",
+      "Email Pusat UTBK PTN": "utbk@unj.ac.id"
+    },
+    {
+      "No.": "22",
+      "Kode": "PTN-324",
+      "Pusat UTBK PTN": "Universitas Pembangunan Nasional Veteran Jakarta",
+      "Alamat Pusat UTBK PTN": "Kampus UPNVJ Pondok Labu, Jl. RS. Fatmawati No.1 Pondok Labu Jakarta Selatan Gedung Rektorat Lantai 1 Ruang Nusantara 2",
+      "Kode POS": "12450",
+      "No Telepon Pusat UTBK PTN": "(021) 7699431",
+      "Email Pusat UTBK PTN": "utbk@upnvj.ac.id"
+    },
+    {
+      "No.": "23",
+      "Kode": "PTN-331",
+      "Pusat UTBK PTN": "Universitas Singaperbangsa Karawang",
+      "Alamat Pusat UTBK PTN": "Jalan H.S. Ronggowaluyo, Telukjambe Timur, Kab. Karawang, Prov. Jawa Barat.",
+      "Kode POS": "41361",
+      "No Telepon Pusat UTBK PTN": "(0267) 641177",
+      "Email Pusat UTBK PTN": "utbk@unsika.ac.id"
+    },
+    {
+      "No.": "24",
+      "Kode": "PTN-332",
+      "Pusat UTBK PTN": "Institut Teknologi Bandung",
+      "Alamat Pusat UTBK PTN": "Kantor Wakil Rektor Bidang Akademik dan Kemahaiswaan,CCAR ITB lantai 4 Jalan Tamansari no 64,  Bandung",
+      "Kode POS": "40116",
+      "No Telepon Pusat UTBK PTN": "(022) 2530689",
+      "Email Pusat UTBK PTN": "dirdik@ditdik.itb.ac.id"
+    },
+    {
+      "No.": "25",
+      "Kode": "PTN-333",
+      "Pusat UTBK PTN": "Universitas Padjadjaran",
+      "Alamat Pusat UTBK PTN": "Unit Layanan Terpadu (ULT) Lantai Dasar Gedung Rektorat Universitas Padjadjaran Jalan Raya Bandung-Sumedang Km. 21 Jatinangor. Pelayanan hari Senin-Jumat dan jam kerja 07.30-16.00 WIB",
+      "Kode POS": "45363",
+      "No Telepon Pusat UTBK PTN": "(022) 84288888",
+      "Email Pusat UTBK PTN": "smup@unpad.ac.id"
+    },
+    {
+      "No.": "26",
+      "Kode": "PTN-334",
+      "Pusat UTBK PTN": "Universitas Pendidikan Indonesia",
+      "Alamat Pusat UTBK PTN": "Divisi RMB Direktorat Akademik UPI Jalan Dr. Setiabudhi no 229 Bandung",
+      "Kode POS": "40154",
+      "No Telepon Pusat UTBK PTN": "(022) 2013753\r\n Tel/WA: 085156368226\r\n WA saja: 08112096229",
+      "Email Pusat UTBK PTN": "pusat.utbk@upi.edu"
+    },
+    {
+      "No.": "27",
+      "Kode": "PTN-335",
+      "Pusat UTBK PTN": "Institut Seni Budaya Indonesia Bandung",
+      "Alamat Pusat UTBK PTN": "Jalan Buahbatu No.212 bandung",
+      "Kode POS": "40265",
+      "No Telepon Pusat UTBK PTN": "(022) 7314982\r\n 081802212208",
+      "Email Pusat UTBK PTN": "utbk@isbi.ac.id"
+    },
+    {
+      "No.": "28",
+      "Kode": "PTN-341",
+      "Pusat UTBK PTN": "Institut Pertanian Bogor",
+      "Alamat Pusat UTBK PTN": "DSITD IPB Kampus IPB Dramaga Gedung B Perpustakaan Lantai 3",
+      "Kode POS": "16680",
+      "No Telepon Pusat UTBK PTN": "(0251) 8623936",
+      "Email Pusat UTBK PTN": "utbk-ipb@apps.ipb.ac.id"
+    },
+    {
+      "No.": "29",
+      "Kode": "PTN-342",
+      "Pusat UTBK PTN": "Universitas Siliwangi",
+      "Alamat Pusat UTBK PTN": "UPT TIK Universitas Siliwangi Gedung Rektorat Lantai 2 Jl. Siliwangi No.24 Kota Tasikmalaya",
+      "Kode POS": "46115",
+      "No Telepon Pusat UTBK PTN": "(0265) 330634",
+      "Email Pusat UTBK PTN": "helpdesk@unsil.ac.id  / info@unsil.ac.id"
+    },
+    {
+      "No.": "30",
+      "Kode": "PTN-351",
+      "Pusat UTBK PTN": "Universitas Jenderal Soedirman",
+      "Alamat Pusat UTBK PTN": "Gedung SPMB Komplek Rektorat UNSOED\r\nJl. Prof HR Bunyamin 708 Purwokerto Jawa Tengah,",
+      "Kode POS": "53122",
+      "No Telepon Pusat UTBK PTN": "(0281) 636262\r\n (0281) 635292 ext.217, 119, 131\r\n WA : 085329000766",
+      "Email Pusat UTBK PTN": "spmb@unsoed.ac.id"
+    },
+    {
+      "No.": "31",
+      "Kode": "PTN-352",
+      "Pusat UTBK PTN": "Universitas Tidar",
+      "Alamat Pusat UTBK PTN": "Humas (BAKPK) Universitas Tidar, Jl. Kapten Suparman 39, Magelang, Jawa Tengah",
+      "Kode POS": "56116",
+      "No Telepon Pusat UTBK PTN": "(0293) 364113",
+      "Email Pusat UTBK PTN": "utbk@untidar.ac.id"
+    },
+    {
+      "No.": "32",
+      "Kode": "PTN-353",
+      "Pusat UTBK PTN": "Universitas Sebelas Maret",
+      "Alamat Pusat UTBK PTN": "Gedung SPMB UNS Jl. Ir Sutami 36 a Kentingan Jebres Surakarta",
+      "Kode POS": "57126",
+      "No Telepon Pusat UTBK PTN": "(0271) 634880",
+      "Email Pusat UTBK PTN": "spmb@unit.uns.ac.id"
+    },
+    {
+      "No.": "33",
+      "Kode": "PTN-354",
+      "Pusat UTBK PTN": "Institut Seni Indonesia Surakarta",
+      "Alamat Pusat UTBK PTN": "Kampus I ISI Surakarta, Gedung Akademik Pusat Lantai II, Jl. Ki Hajar Dewantara No.19 Kentingan Jebres Surakarta",
+      "Kode POS": "57126",
+      "No Telepon Pusat UTBK PTN": "(0271) 647658",
+      "Email Pusat UTBK PTN": "utbk@gm.isi-ska.ac.id"
+    },
+    {
+      "No.": "34",
+      "Kode": "PTN-355",
+      "Pusat UTBK PTN": "Universitas Diponegoro",
+      "Alamat Pusat UTBK PTN": "Sekretariat Penerimaan Mahasiswa Baru, Gedung ICT Center, Lantai 1, Jl Prof. Soedarto SH, Kampus Tembalang, Semarang",
+      "Kode POS": "50275",
+      "No Telepon Pusat UTBK PTN": "(0247) 460041",
+      "Email Pusat UTBK PTN": "utbk@live.undip.ac.id"
+    },
+    {
+      "No.": "35",
+      "Kode": "PTN-356",
+      "Pusat UTBK PTN": "Universitas Negeri Semarang",
+      "Alamat Pusat UTBK PTN": "Gedung Prof. Retno Sriningsih Satmoko, Ruang Mendut, Lantai 1 LP2M UNNES, Kampus Sekaran, Gunungpati, Semarang.",
+      "Kode POS": "50229",
+      "No Telepon Pusat UTBK PTN": "(0248) 508091",
+      "Email Pusat UTBK PTN": "utbk@mail.unnes.ac.id"
+    },
+    {
+      "No.": "36",
+      "Kode": "PTN-361",
+      "Pusat UTBK PTN": "Universitas Gadjah Mada",
+      "Alamat Pusat UTBK PTN": "Direktorat Pendidikan dan Pengajaran Universitas Gadjah Mada, Jl. Pancasila, Bulaksumur, Yogyakarta",
+      "Kode POS": "55281",
+      "No Telepon Pusat UTBK PTN": "(0274) 551222",
+      "Email Pusat UTBK PTN": "pusat.utbk@ugm.ac.id"
+    },
+    {
+      "No.": "37",
+      "Kode": "PTN-362",
+      "Pusat UTBK PTN": "Universitas Negeri Yogyakarta",
+      "Alamat Pusat UTBK PTN": "Kantor Admisi  Gedung Rektorat UNY Jl. Colombo No.1 Yogyakarta",
+      "Kode POS": "55281",
+      "No Telepon Pusat UTBK PTN": "(0274) 548811",
+      "Email Pusat UTBK PTN": "pmb@uny.ac.id"
+    },
+    {
+      "No.": "38",
+      "Kode": "PTN-363",
+      "Pusat UTBK PTN": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+      "Alamat Pusat UTBK PTN": "Bagian Humas Gedung Rektorat Jl SWK 104 (Lingkar Utara) Condongcatur Depok Sleman Yogyakarta",
+      "Kode POS": "55283",
+      "No Telepon Pusat UTBK PTN": "(0274) 486733\r\n 08112656484\r\n Fax.: (0274) 486400",
+      "Email Pusat UTBK PTN": "ltmpt.pmb@upnyk.ac.id"
+    },
+    {
+      "No.": "39",
+      "Kode": "PTN-364",
+      "Pusat UTBK PTN": "Institut Seni Indonesia Yogyakarta",
+      "Alamat Pusat UTBK PTN": "Bagian Pendidikan Gedung Rektorat Lantai 1 ISI Yogyakarta, Jl. Parangtritis Km. 6,5 Sewon, Bantul, D.I. Yogyakarta",
+      "Kode POS": "55188",
+      "No Telepon Pusat UTBK PTN": "(0274) 379133",
+      "Email Pusat UTBK PTN": "utbk@isi.ac.id"
+    },
+    {
+      "No.": "40",
+      "Kode": "PTN-371",
+      "Pusat UTBK PTN": "Universitas Jember",
+      "Alamat Pusat UTBK PTN": "Bagian Akademik Kantor Pusat, Universitas Jember - Jl. Kalimantan No.37 Jember",
+      "Kode POS": "68121",
+      "No Telepon Pusat UTBK PTN": "(0331) 335055",
+      "Email Pusat UTBK PTN": "utbk@unej.ac.id"
+    },
+    {
+      "No.": "41",
+      "Kode": "PTN-372",
+      "Pusat UTBK PTN": "Universitas Brawijaya",
+      "Alamat Pusat UTBK PTN": "Bagian Akademik Universitas Brawijaya, Gedung Rektorat Lantai 2, Jl Veteran Malang",
+      "Kode POS": "65145",
+      "No Telepon Pusat UTBK PTN": "(0341) 575754",
+      "Email Pusat UTBK PTN": "utbk@ub.ac.id"
+    },
+    {
+      "No.": "42",
+      "Kode": "PTN-373",
+      "Pusat UTBK PTN": "Universitas Negeri Malang",
+      "Alamat Pusat UTBK PTN": "Bagian Akademik - Gedung Graha Rektorat Lantai 2 Universitas Negeri Malang - Jl. Semarang no. 5 Malang",
+      "Kode POS": "65145",
+      "No Telepon Pusat UTBK PTN": "(0341) 551312",
+      "Email Pusat UTBK PTN": "utbk@um.ac.id"
+    },
+    {
+      "No.": "43",
+      "Kode": "PTN-381",
+      "Pusat UTBK PTN": "Universitas Airlangga",
+      "Alamat Pusat UTBK PTN": "Kantor PPMB, Gedung ACC (Airlangga Convention Center) Kampus C UNAIR Jl.Mulyorejo Surabaya",
+      "Kode POS": "60115",
+      "No Telepon Pusat UTBK PTN": "(031) 5956009",
+      "Email Pusat UTBK PTN": "utbk@ditsi.unair.ac.id"
+    },
+    {
+      "No.": "44",
+      "Kode": "PTN-382",
+      "Pusat UTBK PTN": "Institut Teknologi Sepuluh Nopember",
+      "Alamat Pusat UTBK PTN": "Direktorat Pendidikan ITS\r\nGedung KPA dr. Angka Lantai 1\r\nKampus ITS, Sukolilo Surabaya",
+      "Kode POS": "60111",
+      "No Telepon Pusat UTBK PTN": "(031)5994251-5994254\r\n Ext.1012\r\n (031) 5947213\r\n 081357644598",
+      "Email Pusat UTBK PTN": "utbk@its.ac.id"
+    },
+    {
+      "No.": "45",
+      "Kode": "PTN-383",
+      "Pusat UTBK PTN": "Universitas Negeri Surabaya",
+      "Alamat Pusat UTBK PTN": "Gedung Rektorat Lt. 1 Kantor ULT Kampus Unesa Jl. Lidah Wetan Surabaya",
+      "Kode POS": "60213",
+      "No Telepon Pusat UTBK PTN": "(031) 99425705",
+      "Email Pusat UTBK PTN": "utbk@unesa.ac.id"
+    },
+    {
+      "No.": "46",
+      "Kode": "PTN-384",
+      "Pusat UTBK PTN": "Universitas Trunojoyo",
+      "Alamat Pusat UTBK PTN": "Gedung Rektorat lantai 2, Kampus Universitas Trunojoyo Madura, Jl Raya Telang PO Box 2 Kamal - Bangkalan",
+      "Kode POS": "69162",
+      "No Telepon Pusat UTBK PTN": "087762160996",
+      "Email Pusat UTBK PTN": "utbk@trunojoyo.ac.id"
+    },
+    {
+      "No.": "47",
+      "Kode": "PTN-385",
+      "Pusat UTBK PTN": "Universitas Pembangunan Nasional Veteran Jawa Timur",
+      "Alamat Pusat UTBK PTN": "UPT TIK, Gedung Giri Pustaka Lantai 1, Jl. Raya Rungkut Madya, Gunung Anyar, Surabaya",
+      "Kode POS": "60294",
+      "No Telepon Pusat UTBK PTN": "081330893213,\r\n 082333384142,\r\n 085851249209",
+      "Email Pusat UTBK PTN": "pusatutbk@upnjatim.ac.id"
+    },
+    {
+      "No.": "48",
+      "Kode": "PTN-511",
+      "Pusat UTBK PTN": "Universitas Tanjungpura",
+      "Alamat Pusat UTBK PTN": "Jln. Prof. DR. H. Hadari Nawawi Pontianak",
+      "Kode POS": "78124",
+      "No Telepon Pusat UTBK PTN": "(0561) 739630",
+      "Email Pusat UTBK PTN": "utbk@untan.ac.id"
+    },
+    {
+      "No.": "49",
+      "Kode": "PTN-521",
+      "Pusat UTBK PTN": "Universitas Palangka Raya",
+      "Alamat Pusat UTBK PTN": "Kampus Tanjung Nyaho Jalan Yos Sudarso (Gedung Rektorat UPR)",
+      "Kode POS": "73111",
+      "No Telepon Pusat UTBK PTN": "081250885225,\r\n 082255500375,\r\n 081347560199",
+      "Email Pusat UTBK PTN": "utbk@upr.ac.id"
+    },
+    {
+      "No.": "50",
+      "Kode": "PTN-531",
+      "Pusat UTBK PTN": "Universitas Lambung Mangkurat",
+      "Alamat Pusat UTBK PTN": "Biro Akademik dan Kemahasiswaan ULM. Gd Rektorat Lt.1. Jl. Brigjen H. Hasan Basri, Kayu Tangi, Banjarmasin",
+      "Kode POS": "70124",
+      "No Telepon Pusat UTBK PTN": "(0511) 3306694",
+      "Email Pusat UTBK PTN": "bak@ulm.ac.id"
+    },
+    {
+      "No.": "51",
+      "Kode": "PTN-541",
+      "Pusat UTBK PTN": "Universitas Mulawarman",
+      "Alamat Pusat UTBK PTN": "Bagian Akademik, Gedung Rektorat UNMUL, Jalan Kuaro Kampus Gunung Kelua, Kota Samarinda",
+      "Kode POS": "75119",
+      "No Telepon Pusat UTBK PTN": "08115558220",
+      "Email Pusat UTBK PTN": "utbk@unmul.ac.id"
+    },
+    {
+      "No.": "52",
+      "Kode": "PTN-542",
+      "Pusat UTBK PTN": "Institut Teknologi Kalimantan",
+      "Alamat Pusat UTBK PTN": "Kampus ITK Gedung A, Jl Soekarno hatta KM 15, Karang Joang, Balikpapan Utara",
+      "Kode POS": "76127",
+      "No Telepon Pusat UTBK PTN": "(0542) 8530800\r\n (0542) 8530801",
+      "Email Pusat UTBK PTN": "utbk@itk.ac.id"
+    },
+    {
+      "No.": "53",
+      "Kode": "PTN-551",
+      "Pusat UTBK PTN": "Universitas Borneo Tarakan",
+      "Alamat Pusat UTBK PTN": "Jl. Amal Lama No 1 Tarakan   Gedung Rektorat Lantai 1 Ruang.BAKK",
+      "Kode POS": "77123",
+      "No Telepon Pusat UTBK PTN": "082148247123",
+      "Email Pusat UTBK PTN": "pmb@borneo.ac.id"
+    },
+    {
+      "No.": "54",
+      "Kode": "PTN-611",
+      "Pusat UTBK PTN": "Universitas Udayana",
+      "Alamat Pusat UTBK PTN": "Biro Akademik, Kerjasama, dan Hubungan Masyarakat (BAKHM), Gedung Rektorat Kampus Bukit Jimbaran Lt. I",
+      "Kode POS": "80362",
+      "No Telepon Pusat UTBK PTN": "(0361) 701954",
+      "Email Pusat UTBK PTN": "baa@unud.ac.id"
+    },
+    {
+      "No.": "55",
+      "Kode": "PTN-612",
+      "Pusat UTBK PTN": "Universitas Pendidikan Ganesha",
+      "Alamat Pusat UTBK PTN": "Jalan Udayana No 11 Singaraja",
+      "Kode POS": "81116",
+      "No Telepon Pusat UTBK PTN": "(0362) 22570",
+      "Email Pusat UTBK PTN": "utbk@undiksha.ac.id"
+    },
+    {
+      "No.": "56",
+      "Kode": "PTN-613",
+      "Pusat UTBK PTN": "Institut Seni Indonesia Denpasar",
+      "Alamat Pusat UTBK PTN": "Jl Nusa Indah, Denpasar",
+      "Kode POS": "80235",
+      "No Telepon Pusat UTBK PTN": "(0361) 227316",
+      "Email Pusat UTBK PTN": "akademik@isi-dps.ac.id"
+    },
+    {
+      "No.": "57",
+      "Kode": "PTN-621",
+      "Pusat UTBK PTN": "Universitas Mataram",
+      "Alamat Pusat UTBK PTN": "Jalan Majapahit Nomor 62 Mataram – Nusa Tenggara Barat",
+      "Kode POS": "83125",
+      "No Telepon Pusat UTBK PTN": "Tlp.(0370) 633007\r\n Fax.(0370) 636041\r\n HP.081809169674",
+      "Email Pusat UTBK PTN": "utbk-ptn621@unram.ac.id"
+    },
+    {
+      "No.": "58",
+      "Kode": "PTN-631",
+      "Pusat UTBK PTN": "Universitas Nusa Cendana",
+      "Alamat Pusat UTBK PTN": "Jl. Adisucipto, Kampus Undana, Penfui, Kupang, NTT",
+      "Kode POS": "85001",
+      "No Telepon Pusat UTBK PTN": "(0380) 881580",
+      "Email Pusat UTBK PTN": "utbk@undana.ac.id"
+    },
+    {
+      "No.": "59",
+      "Kode": "PTN-632",
+      "Pusat UTBK PTN": "Universitas Timor",
+      "Alamat Pusat UTBK PTN": "Jln KM 09 Kelurahan Sasi, Kefamenanu, Kabupaten TTU",
+      "Kode POS": "85613",
+      "No Telepon Pusat UTBK PTN": "082145898779",
+      "Email Pusat UTBK PTN": "utbk@unimor.ac.id"
+    },
+    {
+      "No.": "60",
+      "Kode": "PTN-711",
+      "Pusat UTBK PTN": "Universitas Hassanuddin",
+      "Alamat Pusat UTBK PTN": "Biro Administrasi Akademik Gedung Rektorat Lantai 7 UNHAS Jl. Perintis Kemerdekaan KM.10 Makassar",
+      "Kode POS": "90245",
+      "No Telepon Pusat UTBK PTN": "(0411) 586006\r\n 085343742764",
+      "Email Pusat UTBK PTN": "biroadmakademik@gmail.com"
+    },
+    {
+      "No.": "61",
+      "Kode": "PTN-712",
+      "Pusat UTBK PTN": "Universitas Negeri Makassar",
+      "Alamat Pusat UTBK PTN": "ICT Center, Menara Pinisi UNM, Sayap B Lt. 2 Jl. AP Pettarani Makassar",
+      "Kode POS": "90222",
+      "No Telepon Pusat UTBK PTN": "08152549456",
+      "Email Pusat UTBK PTN": "utbk@unm.ac.id"
+    },
+    {
+      "No.": "62",
+      "Kode": "PTN-721",
+      "Pusat UTBK PTN": "Universitas Sam Ratulangi",
+      "Alamat Pusat UTBK PTN": "Gedung Biro Akademik dan Kemahasiswaan UNSRAT, Lantai. 1, Jl. Kampus Bahu, Manado",
+      "Kode POS": "95115",
+      "No Telepon Pusat UTBK PTN": "(0431) 864832",
+      "Email Pusat UTBK PTN": "akademik@unsrat.ac.id"
+    },
+    {
+      "No.": "63",
+      "Kode": "PTN-722",
+      "Pusat UTBK PTN": "Universitas Negeri Manado",
+      "Alamat Pusat UTBK PTN": "Pusat Komputer UNIMA",
+      "Kode POS": "95618",
+      "No Telepon Pusat UTBK PTN": "085342657007",
+      "Email Pusat UTBK PTN": "utbk@unima.ac.id"
+    },
+    {
+      "No.": "64",
+      "Kode": "PTN-731",
+      "Pusat UTBK PTN": "Universitas Tadulako",
+      "Alamat Pusat UTBK PTN": "Jl. Soekarno Hatta Km 9 Palu Sulawesi Tengah",
+      "Kode POS": "94118",
+      "No Telepon Pusat UTBK PTN": "(0451) 422611",
+      "Email Pusat UTBK PTN": "utbk@untad.ac.id"
+    },
+    {
+      "No.": "65",
+      "Kode": "PTN-741",
+      "Pusat UTBK PTN": "Universitas Sulawesi Barat",
+      "Alamat Pusat UTBK PTN": "Jalan Prof. Dr. Baharuddin Lopa, SH,MH Talumung",
+      "Kode POS": "91412",
+      "No Telepon Pusat UTBK PTN": "085214578527\r\n 085255923789",
+      "Email Pusat UTBK PTN": "utbk@unsulbar.ac.id"
+    },
+    {
+      "No.": "66",
+      "Kode": "PTN-751",
+      "Pusat UTBK PTN": "Universitas Haluoleo",
+      "Alamat Pusat UTBK PTN": "Gedung Pusat Teknologi Informasi dan Komunikasi Jl. HEA Mokodompit Kampus Hijau Bumi Tridharma, Kendari",
+      "Kode POS": "93231",
+      "No Telepon Pusat UTBK PTN": "082395669583",
+      "Email Pusat UTBK PTN": "utbk@uho.ac.id"
+    },
+    {
+      "No.": "67",
+      "Kode": "PTN-752",
+      "Pusat UTBK PTN": "Universitas Negeri Gorontalo",
+      "Alamat Pusat UTBK PTN": "Jl. Jenderal Sudirman No 6, Dulalowo Timur Kota Tengah Kota Gorontalo",
+      "Kode POS": "96128",
+      "No Telepon Pusat UTBK PTN": "Tlp.(0435) 821125\r\n Fax.(0435) 821752",
+      "Email Pusat UTBK PTN": "utbk@ung.ac.id"
+    },
+    {
+      "No.": "68",
+      "Kode": "PTN-753",
+      "Pusat UTBK PTN": "Universitas Sembilan Belas November Kolaka",
+      "Alamat Pusat UTBK PTN": "Jl. Pemuda No. 339 Kel. Tahoa Kolaka Sulawesi Tenggara",
+      "Kode POS": "93517",
+      "No Telepon Pusat UTBK PTN": "(0405) 2321132",
+      "Email Pusat UTBK PTN": "rektorat@usn.ac.id"
+    },
+    {
+      "No.": "69",
+      "Kode": "PTN-811",
+      "Pusat UTBK PTN": "Universitas Pattimura",
+      "Alamat Pusat UTBK PTN": "Gedung Rektorat, Jl. Ir. M. Putuhena, Gedung Rektorat, Kampus Poka - UNPATTI",
+      "Kode POS": "97233",
+      "No Telepon Pusat UTBK PTN": "(0911) 322626",
+      "Email Pusat UTBK PTN": "utbk@unpati.ac.id"
+    },
+    {
+      "No.": "70",
+      "Kode": "PTN-821",
+      "Pusat UTBK PTN": "Universitas Khairun",
+      "Alamat Pusat UTBK PTN": "Gedung Rektorat Universitas Khairun Jl. Pertamina Kampus II Unkhair gambesi Kota Ternate",
+      "Kode POS": "97719",
+      "No Telepon Pusat UTBK PTN": "(0921) 3110905",
+      "Email Pusat UTBK PTN": "admin@unkhair.ac.id"
+    },
+    {
+      "No.": "71",
+      "Kode": "PTN-911",
+      "Pusat UTBK PTN": "Universitas Cenderawasih (Jayapura)",
+      "Alamat Pusat UTBK PTN": "Rektorat Universitas Cenderawasih, Jl Kamp Wolker Yabansai Kota Jayapura",
+      "Kode POS": "99351",
+      "No Telepon Pusat UTBK PTN": "(0967) 572101",
+      "Email Pusat UTBK PTN": "utbk@uncen.ac.id"
+    },
+    {
+      "No.": "72",
+      "Kode": "PTN-912",
+      "Pusat UTBK PTN": "Universitas Musamus Merauke",
+      "Alamat Pusat UTBK PTN": "Universitas Musamus, Jl. Kamizaun Mopah Lama No.1 (Gedung Rektorat)",
+      "Kode POS": "99611",
+      "No Telepon Pusat UTBK PTN": "(0971) 325923",
+      "Email Pusat UTBK PTN": "ltmpt@unmus.ac.id"
+    },
+    {
+      "No.": "73",
+      "Kode": "PTN-913",
+      "Pusat UTBK PTN": "Institut Seni Budaya Indonesia Tanah Papua",
+      "Alamat Pusat UTBK PTN": "Jl Raya sentani km 17.8, Waena, Heram, Jayapura (kompleks uptd taman Budaya Prov. Papua).",
+      "Kode POS": "99358",
+      "No Telepon Pusat UTBK PTN": "(0967) 591130\r\n (0967) 5170942\r\n 081393372199\r\n 085259360657",
+      "Email Pusat UTBK PTN": "tanahpapua.isbi@gmail.com"
+    },
+    {
+      "No.": "74",
+      "Kode": "PTN-921",
+      "Pusat UTBK PTN": "Universitas Papua",
+      "Alamat Pusat UTBK PTN": "Biro Perencanaan, Akademik, dan Kemahasiswaan (BPAK) Universitas Papua",
+      "Kode POS": "98314",
+      "No Telepon Pusat UTBK PTN": "082238632952\r\n 085254081550",
+      "Email Pusat UTBK PTN": "utbk@unipa.ac.id"
+    }
+  ]
