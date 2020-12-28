@@ -1,0 +1,669 @@
+// 20201229012006
+// https://dl.ioconvert.com/document/88ebba67e6022d93fa72ea8c21795270f8d21dd5/dataminer20977babafe4b366b440fffa61c134b3.json
+[{
+        "no": "1",
+        "kode": "PTN-111",
+        "ptn": "Universitas Syiah Kuala",
+        "alamat": "Gedung ICT Center, Jl. Syekh Abdul Rauf No.2,  Darussalam, Banda Aceh",
+        "pos": "23111",
+        "tlp": "(0651) 6303969",
+        "email": "utbk@unsyiah.ac.id"
+    },
+    {
+        "no": "2",
+        "kode": "PTN-112",
+        "ptn": "Universitas Malikussaleh",
+        "alamat": "UPT Pusat Komputer Jl Irian No. 1 Komplek Kampus Bukit Indah, Blamg Pulo - Lhokseumawe",
+        "pos": "24355",
+        "tlp": "081227944233",
+        "email": "utbk@unimal.ac.id"
+    },
+    {
+        "no": "3",
+        "kode": "PTN-113",
+        "ptn": "Universitas Teuku Umar",
+        "alamat": "Universitas Teuku Umar UPT. TIK. Gedung F, Jl. Alue Peunyareng, Ujong Tanoh Darat, Meureubo, Kabupaten Aceh Barat",
+        "pos": "23615",
+        "tlp": "085262464609",
+        "email": "utbk@utu.ac.id"
+    },
+    {
+        "no": "4",
+        "kode": "PTN-114",
+        "ptn": "Universitas Samudra",
+        "alamat": "Ruang Kesekretariatan Penerimaan Mahasiswa Baru Gedung Biro Rektor Universitas Samudra, Meurandeh, Kota Langsa - Aceh",
+        "pos": "24416",
+        "tlp": "085296969201",
+        "email": "utbk@unsam.ac.id"
+    },
+    {
+        "no": "5",
+        "kode": "PTN-115",
+        "ptn": "Institut Seni Budaya Indonesia  Aceh",
+        "alamat": "Jln. Banda Aceh Medan Km. 8,5 Desa Ujong XII Kec. Ingin Jaya Kabupaten Aceh Besar",
+        "pos": "23911",
+        "tlp": "(0651) 92023",
+        "email": "utbk@isbiaceh.ac.id"
+    },
+    {
+        "no": "6",
+        "kode": "PTN-121",
+        "ptn": "Universitas Sumatera Utara",
+        "alamat": "Pusat Pelayanan Terpadu, Gedung Biro Pusat Administrasi Lantai 1 Kampus USU Padang Bulan, Jalan dr. T. Mansyur No. 9",
+        "pos": "20155",
+        "tlp": "082164590174\r\n 082164590173",
+        "email": "puml@usu.ac.id"
+    },
+    {
+        "no": "7",
+        "kode": "PTN-122",
+        "ptn": "Universitas Negeri Medan",
+        "alamat": "Ruang VIP Room Gedung Serbaguna Unimed Jalan Willem Iskandar Pasar V Medan Estate.",
+        "pos": "20221",
+        "tlp": "(0616) 613365",
+        "email": "utbk@unimed.ac.id"
+    },
+    {
+        "no": "8",
+        "kode": "PTN-131",
+        "ptn": "Universitas Riau",
+        "alamat": "Sekretariat UTBK SBMPTN, Gedung Rektorat Lantai 2, Kampus Bina Widya Km 12,5 Simpang Baru Pekanbaru",
+        "pos": "28293",
+        "tlp": "(0761) 63266",
+        "email": "utbk.sbmptn@unri.ac.id"
+    },
+    {
+        "no": "9",
+        "kode": "PTN-133",
+        "ptn": "Universitas Maritim Raja Ali Haji",
+        "alamat": "Jl Politeknik Senggarang Tanjungpinang",
+        "pos": "29115",
+        "tlp": "(0771) 4500089",
+        "email": "utbk@umrah.ac.id"
+    },
+    {
+        "no": "10",
+        "kode": "PTN-141",
+        "ptn": "Universitas Andalas",
+        "alamat": "Gedung Rektorat Universitas Andalas, Kampus Limau Manis Padang",
+        "pos": "25163",
+        "tlp": "(0751) 71301",
+        "email": "sekre.wr1@unand.ac.id"
+    },
+    {
+        "no": "11",
+        "kode": "PTN-142",
+        "ptn": "Universitas Negeri Padang",
+        "alamat": "Gedung Rektorat Lama Bagonjong Lt. 1 - Jln Prof. Dr. Hamka Air Tawar Padang",
+        "pos": "25132",
+        "tlp": "(0751) 7051260",
+        "email": "utbk@unp.ac.id"
+    },
+    {
+        "no": "12",
+        "kode": "PTN-143",
+        "ptn": "Institut Seni Indonesia Padang Panjang",
+        "alamat": "Gedung Rektorat Jln. Bahder Johan, Kota Padangpanjang Sumatera Barat",
+        "pos": "27128",
+        "tlp": "(0752) 82077",
+        "email": "utbk@isi- padangpanjang.ac.id"
+    },
+    {
+        "no": "13",
+        "kode": "PTN-151",
+        "ptn": "Universitas Jambi",
+        "alamat": "Gedung Balairung Lantai 2 Kampus UNJA Mendalo, Jl. Raya Jambi - Muara Bulian Km.15 Mendalo Indah Jambi",
+        "pos": "36361",
+        "tlp": "085382041800",
+        "email": "pusat_utbk_unja@unja.ac.id"
+    },
+    {
+        "no": "14",
+        "kode": "PTN-161",
+        "ptn": "Universitas Bengkulu",
+        "alamat": "Rektorat Universitas Bengkulu, Jalan WR Supratman Kandang Limun Bengkulu",
+        "pos": "38371",
+        "tlp": "(0736) 21170",
+        "email": "snmptn.utbk@unib.ac.id"
+    },
+    {
+        "no": "15",
+        "kode": "PTN-171",
+        "ptn": "Universitas Sriwijaya",
+        "alamat": "Gedung Graha Sriwijaya Lt. 1 Kampus UNSRI Bukit Besar Jl. Srijaya Negara Bukit Besar Palembang",
+        "pos": "30139",
+        "tlp": "(0711) 362388\r\n 082250000171",
+        "email": "utbk@unsri.ac.id"
+    },
+    {
+        "no": "16",
+        "kode": "PTN-181",
+        "ptn": "Universitas Bangka Belitung",
+        "alamat": "UPT TIK, Gedung Babel IV Kampus Terpadu Universitas Bangka Belitung",
+        "pos": "33172",
+        "tlp": "(0717) 422145\r\n 08127177098",
+        "email": "ubbbakk@gmail.com"
+    },
+    {
+        "no": "17",
+        "kode": "PTN-191",
+        "ptn": "Universitas Lampung",
+        "alamat": "Gedung UPT. TIK Unila Jl. Soemantri Brojonegoro No.1, Gedung Meneng Bandar Lampung",
+        "pos": "35145",
+        "tlp": "085357841177",
+        "email": "simanila@kpa.unila.ac.id"
+    },
+    {
+        "no": "18",
+        "kode": "PTN-192",
+        "ptn": "Institut Teknologi Sumatera",
+        "alamat": "Jalan Terusan Ryacudu, Desa Way Hui, Kecamatan Jati Agung, Lampung Selatan",
+        "pos": "35365",
+        "tlp": "(0721) 8030188",
+        "email": "utbk@itera.ac.id"
+    },
+    {
+        "no": "19",
+        "kode": "PTN-311",
+        "ptn": "Universitas Sultan Ageng Tirtayasa",
+        "alamat": "Jl. Raya Jakarta km.4 Pakupatan Serang Banten",
+        "pos": "42124",
+        "tlp": "(0254) 280330\r\n 087871261263",
+        "email": "utbk@untirta.ac.id"
+    },
+    {
+        "no": "20",
+        "kode": "PTN-321",
+        "ptn": "Universitas Indonesia",
+        "alamat": "Gedung Penerimaan Mahasiswa Baru (PMB) UI, Jl. Prof. Dr. Sujudi, Kampus UI Depok, Jawa Barat",
+        "pos": "16424",
+        "tlp": "(021) 7864126",
+        "email": "sekretariat.pmb@ui.ac.id"
+    },
+    {
+        "no": "21",
+        "kode": "PTN-323",
+        "ptn": "Universitas Negeri Jakarta",
+        "alamat": "Kampus A UNJ, Gedung D, Pustikom Lt 1. Jl. Rawamangun Muka, RT.11/RW.14, Rawamangun, Pulo Gadung, Kota Jakarta Timur.",
+        "pos": "13220",
+        "tlp": "082244413433",
+        "email": "utbk@unj.ac.id"
+    },
+    {
+        "no": "22",
+        "kode": "PTN-324",
+        "ptn": "Universitas Pembangunan Nasional Veteran Jakarta",
+        "alamat": "Kampus UPNVJ Pondok Labu, Jl. RS. Fatmawati No.1 Pondok Labu Jakarta Selatan Gedung Rektorat Lantai 1 Ruang Nusantara 2",
+        "pos": "12450",
+        "tlp": "(021) 7699431",
+        "email": "utbk@upnvj.ac.id"
+    },
+    {
+        "no": "23",
+        "kode": "PTN-331",
+        "ptn": "Universitas Singaperbangsa Karawang",
+        "alamat": "Jalan H.S. Ronggowaluyo, Telukjambe Timur, Kab. Karawang, Prov. Jawa Barat.",
+        "pos": "41361",
+        "tlp": "(0267) 641177",
+        "email": "utbk@unsika.ac.id"
+    },
+    {
+        "no": "24",
+        "kode": "PTN-332",
+        "ptn": "Institut Teknologi Bandung",
+        "alamat": "Kantor Wakil Rektor Bidang Akademik dan Kemahaiswaan,CCAR ITB lantai 4 Jalan Tamansari no 64,  Bandung",
+        "pos": "40116",
+        "tlp": "(022) 2530689",
+        "email": "dirdik@ditdik.itb.ac.id"
+    },
+    {
+        "no": "25",
+        "kode": "PTN-333",
+        "ptn": "Universitas Padjadjaran",
+        "alamat": "Unit Layanan Terpadu (ULT) Lantai Dasar Gedung Rektorat Universitas Padjadjaran Jalan Raya Bandung-Sumedang Km. 21 Jatinangor. Pelayanan hari Senin-Jumat dan jam kerja 07.30-16.00 WIB",
+        "pos": "45363",
+        "tlp": "(022) 84288888",
+        "email": "smup@unpad.ac.id"
+    },
+    {
+        "no": "26",
+        "kode": "PTN-334",
+        "ptn": "Universitas Pendidikan Indonesia",
+        "alamat": "Divisi RMB Direktorat Akademik UPI Jalan Dr. Setiabudhi no 229 Bandung",
+        "pos": "40154",
+        "tlp": "(022) 2013753\r\n Tel/WA: 085156368226\r\n WA saja: 08112096229",
+        "email": "pusat.utbk@upi.edu"
+    },
+    {
+        "no": "27",
+        "kode": "PTN-335",
+        "ptn": "Institut Seni Budaya Indonesia Bandung",
+        "alamat": "Jalan Buahbatu No.212 bandung",
+        "pos": "40265",
+        "tlp": "(022) 7314982\r\n 081802212208",
+        "email": "utbk@isbi.ac.id"
+    },
+    {
+        "no": "28",
+        "kode": "PTN-341",
+        "ptn": "Institut Pertanian Bogor",
+        "alamat": "DSITD IPB Kampus IPB Dramaga Gedung B Perpustakaan Lantai 3",
+        "pos": "16680",
+        "tlp": "(0251) 8623936",
+        "email": "utbk-ipb@apps.ipb.ac.id"
+    },
+    {
+        "no": "29",
+        "kode": "PTN-342",
+        "ptn": "Universitas Siliwangi",
+        "alamat": "UPT TIK Universitas Siliwangi Gedung Rektorat Lantai 2 Jl. Siliwangi No.24 Kota Tasikmalaya",
+        "pos": "46115",
+        "tlp": "(0265) 330634",
+        "email": "helpdesk@unsil.ac.id  / info@unsil.ac.id"
+    },
+    {
+        "no": "30",
+        "kode": "PTN-351",
+        "ptn": "Universitas Jenderal Soedirman",
+        "alamat": "Gedung SPMB Komplek Rektorat UNSOED\r\nJl. Prof HR Bunyamin 708 Purwokerto Jawa Tengah,",
+        "pos": "53122",
+        "tlp": "(0281) 636262\r\n (0281) 635292 ext.217, 119, 131\r\n WA : 085329000766",
+        "email": "spmb@unsoed.ac.id"
+    },
+    {
+        "no": "31",
+        "kode": "PTN-352",
+        "ptn": "Universitas Tidar",
+        "alamat": "Humas (BAKPK) Universitas Tidar, Jl. Kapten Suparman 39, Magelang, Jawa Tengah",
+        "pos": "56116",
+        "tlp": "(0293) 364113",
+        "email": "utbk@untidar.ac.id"
+    },
+    {
+        "no": "32",
+        "kode": "PTN-353",
+        "ptn": "Universitas Sebelas Maret",
+        "alamat": "Gedung SPMB UNS Jl. Ir Sutami 36 a Kentingan Jebres Surakarta",
+        "pos": "57126",
+        "tlp": "(0271) 634880",
+        "email": "spmb@unit.uns.ac.id"
+    },
+    {
+        "no": "33",
+        "kode": "PTN-354",
+        "ptn": "Institut Seni Indonesia Surakarta",
+        "alamat": "Kampus I ISI Surakarta, Gedung Akademik Pusat Lantai II, Jl. Ki Hajar Dewantara No.19 Kentingan Jebres Surakarta",
+        "pos": "57126",
+        "tlp": "(0271) 647658",
+        "email": "utbk@gm.isi-ska.ac.id"
+    },
+    {
+        "no": "34",
+        "kode": "PTN-355",
+        "ptn": "Universitas Diponegoro",
+        "alamat": "Sekretariat Penerimaan Mahasiswa Baru, Gedung ICT Center, Lantai 1, Jl Prof. Soedarto SH, Kampus Tembalang, Semarang",
+        "pos": "50275",
+        "tlp": "(0247) 460041",
+        "email": "utbk@live.undip.ac.id"
+    },
+    {
+        "no": "35",
+        "kode": "PTN-356",
+        "ptn": "Universitas Negeri Semarang",
+        "alamat": "Gedung Prof. Retno Sriningsih Satmoko, Ruang Mendut, Lantai 1 LP2M UNNES, Kampus Sekaran, Gunungpati, Semarang.",
+        "pos": "50229",
+        "tlp": "(0248) 508091",
+        "email": "utbk@mail.unnes.ac.id"
+    },
+    {
+        "no": "36",
+        "kode": "PTN-361",
+        "ptn": "Universitas Gadjah Mada",
+        "alamat": "Direktorat Pendidikan dan Pengajaran Universitas Gadjah Mada, Jl. Pancasila, Bulaksumur, Yogyakarta",
+        "pos": "55281",
+        "tlp": "(0274) 551222",
+        "email": "pusat.utbk@ugm.ac.id"
+    },
+    {
+        "no": "37",
+        "kode": "PTN-362",
+        "ptn": "Universitas Negeri Yogyakarta",
+        "alamat": "Kantor Admisi  Gedung Rektorat UNY Jl. Colombo No.1 Yogyakarta",
+        "pos": "55281",
+        "tlp": "(0274) 548811",
+        "email": "pmb@uny.ac.id"
+    },
+    {
+        "no": "38",
+        "kode": "PTN-363",
+        "ptn": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+        "alamat": "Bagian Humas Gedung Rektorat Jl SWK 104 (Lingkar Utara) Condongcatur Depok Sleman Yogyakarta",
+        "pos": "55283",
+        "tlp": "(0274) 486733\r\n 08112656484\r\n Fax.: (0274) 486400",
+        "email": "ltmpt.pmb@upnyk.ac.id"
+    },
+    {
+        "no": "39",
+        "kode": "PTN-364",
+        "ptn": "Institut Seni Indonesia Yogyakarta",
+        "alamat": "Bagian Pendidikan Gedung Rektorat Lantai 1 ISI Yogyakarta, Jl. Parangtritis Km. 6,5 Sewon, Bantul, D.I. Yogyakarta",
+        "pos": "55188",
+        "tlp": "(0274) 379133",
+        "email": "utbk@isi.ac.id"
+    },
+    {
+        "no": "40",
+        "kode": "PTN-371",
+        "ptn": "Universitas Jember",
+        "alamat": "Bagian Akademik Kantor Pusat, Universitas Jember - Jl. Kalimantan No.37 Jember",
+        "pos": "68121",
+        "tlp": "(0331) 335055",
+        "email": "utbk@unej.ac.id"
+    },
+    {
+        "no": "41",
+        "kode": "PTN-372",
+        "ptn": "Universitas Brawijaya",
+        "alamat": "Bagian Akademik Universitas Brawijaya, Gedung Rektorat Lantai 2, Jl Veteran Malang",
+        "pos": "65145",
+        "tlp": "(0341) 575754",
+        "email": "utbk@ub.ac.id"
+    },
+    {
+        "no": "42",
+        "kode": "PTN-373",
+        "ptn": "Universitas Negeri Malang",
+        "alamat": "Bagian Akademik - Gedung Graha Rektorat Lantai 2 Universitas Negeri Malang - Jl. Semarang no. 5 Malang",
+        "pos": "65145",
+        "tlp": "(0341) 551312",
+        "email": "utbk@um.ac.id"
+    },
+    {
+        "no": "43",
+        "kode": "PTN-381",
+        "ptn": "Universitas Airlangga",
+        "alamat": "Kantor PPMB, Gedung ACC (Airlangga Convention Center) Kampus C UNAIR Jl.Mulyorejo Surabaya",
+        "pos": "60115",
+        "tlp": "(031) 5956009",
+        "email": "utbk@ditsi.unair.ac.id"
+    },
+    {
+        "no": "44",
+        "kode": "PTN-382",
+        "ptn": "Institut Teknologi Sepuluh Nopember",
+        "alamat": "Direktorat Pendidikan ITS\r\nGedung KPA dr. Angka Lantai 1\r\nKampus ITS, Sukolilo Surabaya",
+        "pos": "60111",
+        "tlp": "(031)5994251-5994254\r\n Ext.1012\r\n (031) 5947213\r\n 081357644598",
+        "email": "utbk@its.ac.id"
+    },
+    {
+        "no": "45",
+        "kode": "PTN-383",
+        "ptn": "Universitas Negeri Surabaya",
+        "alamat": "Gedung Rektorat Lt. 1 Kantor ULT Kampus Unesa Jl. Lidah Wetan Surabaya",
+        "pos": "60213",
+        "tlp": "(031) 99425705",
+        "email": "utbk@unesa.ac.id"
+    },
+    {
+        "no": "46",
+        "kode": "PTN-384",
+        "ptn": "Universitas Trunojoyo",
+        "alamat": "Gedung Rektorat lantai 2, Kampus Universitas Trunojoyo Madura, Jl Raya Telang PO Box 2 Kamal - Bangkalan",
+        "pos": "69162",
+        "tlp": "087762160996",
+        "email": "utbk@trunojoyo.ac.id"
+    },
+    {
+        "no": "47",
+        "kode": "PTN-385",
+        "ptn": "Universitas Pembangunan Nasional Veteran Jawa Timur",
+        "alamat": "UPT TIK, Gedung Giri Pustaka Lantai 1, Jl. Raya Rungkut Madya, Gunung Anyar, Surabaya",
+        "pos": "60294",
+        "tlp": "081330893213,\r\n 082333384142,\r\n 085851249209",
+        "email": "pusatutbk@upnjatim.ac.id"
+    },
+    {
+        "no": "48",
+        "kode": "PTN-511",
+        "ptn": "Universitas Tanjungpura",
+        "alamat": "Jln. Prof. DR. H. Hadari Nawawi Pontianak",
+        "pos": "78124",
+        "tlp": "(0561) 739630",
+        "email": "utbk@untan.ac.id"
+    },
+    {
+        "no": "49",
+        "kode": "PTN-521",
+        "ptn": "Universitas Palangka Raya",
+        "alamat": "Kampus Tanjung Nyaho Jalan Yos Sudarso (Gedung Rektorat UPR)",
+        "pos": "73111",
+        "tlp": "081250885225,\r\n 082255500375,\r\n 081347560199",
+        "email": "utbk@upr.ac.id"
+    },
+    {
+        "no": "50",
+        "kode": "PTN-531",
+        "ptn": "Universitas Lambung Mangkurat",
+        "alamat": "Biro Akademik dan Kemahasiswaan ULM. Gd Rektorat Lt.1. Jl. Brigjen H. Hasan Basri, Kayu Tangi, Banjarmasin",
+        "pos": "70124",
+        "tlp": "(0511) 3306694",
+        "email": "bak@ulm.ac.id"
+    },
+    {
+        "no": "51",
+        "kode": "PTN-541",
+        "ptn": "Universitas Mulawarman",
+        "alamat": "Bagian Akademik, Gedung Rektorat UNMUL, Jalan Kuaro Kampus Gunung Kelua, Kota Samarinda",
+        "pos": "75119",
+        "tlp": "08115558220",
+        "email": "utbk@unmul.ac.id"
+    },
+    {
+        "no": "52",
+        "kode": "PTN-542",
+        "ptn": "Institut Teknologi Kalimantan",
+        "alamat": "Kampus ITK Gedung A, Jl Soekarno hatta KM 15, Karang Joang, Balikpapan Utara",
+        "pos": "76127",
+        "tlp": "(0542) 8530800\r\n (0542) 8530801",
+        "email": "utbk@itk.ac.id"
+    },
+    {
+        "no": "53",
+        "kode": "PTN-551",
+        "ptn": "Universitas Borneo Tarakan",
+        "alamat": "Jl. Amal Lama No 1 Tarakan   Gedung Rektorat Lantai 1 Ruang.BAKK",
+        "pos": "77123",
+        "tlp": "082148247123",
+        "email": "pmb@borneo.ac.id"
+    },
+    {
+        "no": "54",
+        "kode": "PTN-611",
+        "ptn": "Universitas Udayana",
+        "alamat": "Biro Akademik, Kerjasama, dan Hubungan Masyarakat (BAKHM), Gedung Rektorat Kampus Bukit Jimbaran Lt. I",
+        "pos": "80362",
+        "tlp": "(0361) 701954",
+        "email": "baa@unud.ac.id"
+    },
+    {
+        "no": "55",
+        "kode": "PTN-612",
+        "ptn": "Universitas Pendidikan Ganesha",
+        "alamat": "Jalan Udayana No 11 Singaraja",
+        "pos": "81116",
+        "tlp": "(0362) 22570",
+        "email": "utbk@undiksha.ac.id"
+    },
+    {
+        "no": "56",
+        "kode": "PTN-613",
+        "ptn": "Institut Seni Indonesia Denpasar",
+        "alamat": "Jl Nusa Indah, Denpasar",
+        "pos": "80235",
+        "tlp": "(0361) 227316",
+        "email": "akademik@isi-dps.ac.id"
+    },
+    {
+        "no": "57",
+        "kode": "PTN-621",
+        "ptn": "Universitas Mataram",
+        "alamat": "Jalan Majapahit Nomor 62 Mataram – Nusa Tenggara Barat",
+        "pos": "83125",
+        "tlp": "Tlp.(0370) 633007\r\n Fax.(0370) 636041\r\n HP.081809169674",
+        "email": "utbk-ptn621@unram.ac.id"
+    },
+    {
+        "no": "58",
+        "kode": "PTN-631",
+        "ptn": "Universitas Nusa Cendana",
+        "alamat": "Jl. Adisucipto, Kampus Undana, Penfui, Kupang, NTT",
+        "pos": "85001",
+        "tlp": "(0380) 881580",
+        "email": "utbk@undana.ac.id"
+    },
+    {
+        "no": "59",
+        "kode": "PTN-632",
+        "ptn": "Universitas Timor",
+        "alamat": "Jln KM 09 Kelurahan Sasi, Kefamenanu, Kabupaten TTU",
+        "pos": "85613",
+        "tlp": "082145898779",
+        "email": "utbk@unimor.ac.id"
+    },
+    {
+        "no": "60",
+        "kode": "PTN-711",
+        "ptn": "Universitas Hassanuddin",
+        "alamat": "Biro Administrasi Akademik Gedung Rektorat Lantai 7 UNHAS Jl. Perintis Kemerdekaan KM.10 Makassar",
+        "pos": "90245",
+        "tlp": "(0411) 586006\r\n 085343742764",
+        "email": "biroadmakademik@gmail.com"
+    },
+    {
+        "no": "61",
+        "kode": "PTN-712",
+        "ptn": "Universitas Negeri Makassar",
+        "alamat": "ICT Center, Menara Pinisi UNM, Sayap B Lt. 2 Jl. AP Pettarani Makassar",
+        "pos": "90222",
+        "tlp": "08152549456",
+        "email": "utbk@unm.ac.id"
+    },
+    {
+        "no": "62",
+        "kode": "PTN-721",
+        "ptn": "Universitas Sam Ratulangi",
+        "alamat": "Gedung Biro Akademik dan Kemahasiswaan UNSRAT, Lantai. 1, Jl. Kampus Bahu, Manado",
+        "pos": "95115",
+        "tlp": "(0431) 864832",
+        "email": "akademik@unsrat.ac.id"
+    },
+    {
+        "no": "63",
+        "kode": "PTN-722",
+        "ptn": "Universitas Negeri Manado",
+        "alamat": "Pusat Komputer UNIMA",
+        "pos": "95618",
+        "tlp": "085342657007",
+        "email": "utbk@unima.ac.id"
+    },
+    {
+        "no": "64",
+        "kode": "PTN-731",
+        "ptn": "Universitas Tadulako",
+        "alamat": "Jl. Soekarno Hatta Km 9 Palu Sulawesi Tengah",
+        "pos": "94118",
+        "tlp": "(0451) 422611",
+        "email": "utbk@untad.ac.id"
+    },
+    {
+        "no": "65",
+        "kode": "PTN-741",
+        "ptn": "Universitas Sulawesi Barat",
+        "alamat": "Jalan Prof. Dr. Baharuddin Lopa, SH,MH Talumung",
+        "pos": "91412",
+        "tlp": "085214578527\r\n 085255923789",
+        "email": "utbk@unsulbar.ac.id"
+    },
+    {
+        "no": "66",
+        "kode": "PTN-751",
+        "ptn": "Universitas Haluoleo",
+        "alamat": "Gedung Pusat Teknologi Informasi dan Komunikasi Jl. HEA Mokodompit Kampus Hijau Bumi Tridharma, Kendari",
+        "pos": "93231",
+        "tlp": "082395669583",
+        "email": "utbk@uho.ac.id"
+    },
+    {
+        "no": "67",
+        "kode": "PTN-752",
+        "ptn": "Universitas Negeri Gorontalo",
+        "alamat": "Jl. Jenderal Sudirman No 6, Dulalowo Timur Kota Tengah Kota Gorontalo",
+        "pos": "96128",
+        "tlp": "Tlp.(0435) 821125\r\n Fax.(0435) 821752",
+        "email": "utbk@ung.ac.id"
+    },
+    {
+        "no": "68",
+        "kode": "PTN-753",
+        "ptn": "Universitas Sembilan Belas November Kolaka",
+        "alamat": "Jl. Pemuda No. 339 Kel. Tahoa Kolaka Sulawesi Tenggara",
+        "pos": "93517",
+        "tlp": "(0405) 2321132",
+        "email": "rektorat@usn.ac.id"
+    },
+    {
+        "no": "69",
+        "kode": "PTN-811",
+        "ptn": "Universitas Pattimura",
+        "alamat": "Gedung Rektorat, Jl. Ir. M. Putuhena, Gedung Rektorat, Kampus Poka - UNPATTI",
+        "pos": "97233",
+        "tlp": "(0911) 322626",
+        "email": "utbk@unpati.ac.id"
+    },
+    {
+        "no": "70",
+        "kode": "PTN-821",
+        "ptn": "Universitas Khairun",
+        "alamat": "Gedung Rektorat Universitas Khairun Jl. Pertamina Kampus II Unkhair gambesi Kota Ternate",
+        "pos": "97719",
+        "tlp": "(0921) 3110905",
+        "email": "admin@unkhair.ac.id"
+    },
+    {
+        "no": "71",
+        "kode": "PTN-911",
+        "ptn": "Universitas Cenderawasih (Jayapura)",
+        "alamat": "Rektorat Universitas Cenderawasih, Jl Kamp Wolker Yabansai Kota Jayapura",
+        "pos": "99351",
+        "tlp": "(0967) 572101",
+        "email": "utbk@uncen.ac.id"
+    },
+    {
+        "no": "72",
+        "kode": "PTN-912",
+        "ptn": "Universitas Musamus Merauke",
+        "alamat": "Universitas Musamus, Jl. Kamizaun Mopah Lama No.1 (Gedung Rektorat)",
+        "pos": "99611",
+        "tlp": "(0971) 325923",
+        "email": "ltmpt@unmus.ac.id"
+    },
+    {
+        "no": "73",
+        "kode": "PTN-913",
+        "ptn": "Institut Seni Budaya Indonesia Tanah Papua",
+        "alamat": "Jl Raya sentani km 17.8, Waena, Heram, Jayapura (kompleks uptd taman Budaya Prov. Papua).",
+        "pos": "99358",
+        "tlp": "(0967) 591130\r\n (0967) 5170942\r\n 081393372199\r\n 085259360657",
+        "email": "tanahpapua.isbi@gmail.com"
+    },
+    {
+        "no": "74",
+        "kode": "PTN-921",
+        "ptn": "Universitas Papua",
+        "alamat": "Biro Perencanaan, Akademik, dan Kemahasiswaan (BPAK) Universitas Papua",
+        "pos": "98314",
+        "tlp": "082238632952\r\n 085254081550",
+        "email": "utbk@unipa.ac.id"
+    }
+]
