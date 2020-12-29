@@ -1,0 +1,58 @@
+  [
+    {
+      "no": "1",
+      "kode": "231",
+      "nama": "Politeknik Negeri Batam",
+      "link": "http://registrasi.polibatam.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=231"
+    },
+    {
+      "no": "2",
+      "kode": "232",
+      "nama": "Politeknik Negeri Bengkalis",
+      "link": "http://pmb.polbeng.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=232"
+    },
+    {
+      "no": "3",
+      "kode": "241",
+      "nama": "Politeknik Negeri Padang",
+      "link": "https://penerimaan.pnp.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=241"
+    },
+    {
+      "no": "4",
+      "kode": "421",
+      "nama": "Politeknik Negeri Jakarta",
+      "link": "https://penerimaan.pnj.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=421"
+    },
+    {
+      "no": "5",
+      "kode": "422",
+      "nama": "Politeknik Negeri Media Kreatif",
+      "link": "https://www.polimedia.ac.id/category/pmb/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=422"
+    },
+    {
+      "no": "6",
+      "kode": "471",
+      "nama": "Politeknik Negeri Banyuwangi",
+      "link": "https://www.poliwangi.ac.id/jalur-masuk",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=471"
+    },
+    {
+      "no": "7",
+      "kode": "472",
+      "nama": "Politeknik Negeri Jember",
+      "link": "https://pmb-online.polije.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=472"
+    },
+    {
+      "no": "8",
+      "kode": "561",
+      "nama": "Politeknik Pertanian Negeri Samarinda",
+      "link": "http://politanisamarinda.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=561"
+    }
+  ]
