@@ -1,0 +1,597 @@
+  [
+    {
+      "no": "1",
+      "kode": "111",
+      "nama": "UNIVERSITAS SYIAH KUALA",
+      "link": "http://pmb.unsyiah.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=111"
+    },
+    {
+      "no": "2",
+      "kode": "112",
+      "nama": "UNIVERSITAS MALIKUSSALEH",
+      "link": "http://pmb.unimal.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=112"
+    },
+    {
+      "no": "3",
+      "kode": "113",
+      "nama": "UNIVERSITAS TEUKU UMAR",
+      "link": "http://pmb.utu.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=113"
+    },
+    {
+      "no": "4",
+      "kode": "114",
+      "nama": "UNIVERSITAS SAMUDRA",
+      "link": "https://pmb.unsam.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=114"
+    },
+    {
+      "no": "5",
+      "kode": "115",
+      "nama": "ISBI ACEH",
+      "link": "http://pmb.isbiaceh.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=115"
+    },
+    {
+      "no": "6",
+      "kode": "116",
+      "nama": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+      "link": "http://www.pmb.ar-raniry.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=116"
+    },
+    {
+      "no": "7",
+      "kode": "121",
+      "nama": "UNIVERSITAS SUMATERA UTARA",
+      "link": "https://penerimaan.usu.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=121"
+    },
+    {
+      "no": "8",
+      "kode": "122",
+      "nama": "UNIVERSITAS NEGERI MEDAN",
+      "link": "http://www.ltmpt.unimed.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=122"
+    },
+    {
+      "no": "9",
+      "kode": "123",
+      "nama": "UNIVERSITAS ISLAM NEGERI SUMATERA UTARA",
+      "link": "http://pmb.uinsu.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=123"
+    },
+    {
+      "no": "10",
+      "kode": "131",
+      "nama": "UNIVERSITAS RIAU",
+      "link": "https://pmb.unri.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=131"
+    },
+    {
+      "no": "11",
+      "kode": "132",
+      "nama": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+      "link": "http://pmb.uin-suska.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=132"
+    },
+    {
+      "no": "12",
+      "kode": "133",
+      "nama": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "link": "https://penerimaan.umrah.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=133"
+    },
+    {
+      "no": "13",
+      "kode": "141",
+      "nama": "UNIVERSITAS ANDALAS",
+      "link": "https://pmb.unand.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=141"
+    },
+    {
+      "no": "14",
+      "kode": "142",
+      "nama": "UNIVERSITAS NEGERI PADANG",
+      "link": "http://spmb.unp.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=142"
+    },
+    {
+      "no": "15",
+      "kode": "143",
+      "nama": "ISI PADANG PANJANG",
+      "link": "https://www.isi-padangpanjang.ac.id/penerimaan-mahasiswa-baru/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=143"
+    },
+    {
+      "no": "16",
+      "kode": "151",
+      "nama": "UNIVERSITAS JAMBI",
+      "link": "https://pmb.unja.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=151"
+    },
+    {
+      "no": "17",
+      "kode": "161",
+      "nama": "UNIVERSITAS BENGKULU",
+      "link": "http://admisi.unib.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=161"
+    },
+    {
+      "no": "18",
+      "kode": "171",
+      "nama": "UNIVERSITAS SRIWIJAYA",
+      "link": "https://reg.unsri.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=171"
+    },
+    {
+      "no": "19",
+      "kode": "172",
+      "nama": "UNIVERSITAS ISLAM NEGERI RADEN FATAH",
+      "link": "http://pmb.radenfatah.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=172"
+    },
+    {
+      "no": "20",
+      "kode": "181",
+      "nama": "UNIVERSITAS BANGKA BELITUNG",
+      "link": "http://pmb.ubb.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=181"
+    },
+    {
+      "no": "21",
+      "kode": "191",
+      "nama": "UNIVERSITAS LAMPUNG",
+      "link": "http://simanila.unila.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=191"
+    },
+    {
+      "no": "22",
+      "kode": "192",
+      "nama": "INSTITUT TEKNOLOGI SUMATERA",
+      "link": "https://pmb.itera.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=192"
+    },
+    {
+      "no": "23",
+      "kode": "311",
+      "nama": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "link": "http://spmb.untirta.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=311"
+    },
+    {
+      "no": "24",
+      "kode": "321",
+      "nama": "UNIVERSITAS INDONESIA",
+      "link": "https://penerimaan.ui.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=321"
+    },
+    {
+      "no": "25",
+      "kode": "322",
+      "nama": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "link": "https://spmb.uinjkt.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=322"
+    },
+    {
+      "no": "26",
+      "kode": "323",
+      "nama": "UNIVERSITAS NEGERI JAKARTA",
+      "link": "http://penmaba.unj.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=323"
+    },
+    {
+      "no": "27",
+      "kode": "324",
+      "nama": "UPN VETERAN JAKARTA",
+      "link": "https://penmaru.upnvj.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=324"
+    },
+    {
+      "no": "28",
+      "kode": "331",
+      "nama": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "link": "https://pmb.unsika.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=331"
+    },
+    {
+      "no": "29",
+      "kode": "332",
+      "nama": "INSTITUT TEKNOLOGI BANDUNG",
+      "link": "https://usm.itb.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=332"
+    },
+    {
+      "no": "30",
+      "kode": "333",
+      "nama": "UNIVERSITAS PADJADJARAN",
+      "link": "http://smup.unpad.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=333"
+    },
+    {
+      "no": "31",
+      "kode": "334",
+      "nama": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "link": "https://pmb.upi.edu/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=334"
+    },
+    {
+      "no": "32",
+      "kode": "335",
+      "nama": "ISBI BANDUNG",
+      "link": "https://pmb.isbi.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=335"
+    },
+    {
+      "no": "33",
+      "kode": "336",
+      "nama": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+      "link": "https://pmb.uinsgd.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=336"
+    },
+    {
+      "no": "34",
+      "kode": "341",
+      "nama": "INSTITUT PERTANIAN BOGOR",
+      "link": "https://admisi.ipb.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=341"
+    },
+    {
+      "no": "35",
+      "kode": "342",
+      "nama": "UNIVERSITAS SILIWANGI",
+      "link": "https://pmb.unsil.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=342"
+    },
+    {
+      "no": "36",
+      "kode": "351",
+      "nama": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "link": "http://spmb.unsoed.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=351"
+    },
+    {
+      "no": "37",
+      "kode": "352",
+      "nama": "UNIVERSITAS TIDAR",
+      "link": "https://um.untidar.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=352"
+    },
+    {
+      "no": "38",
+      "kode": "353",
+      "nama": "UNIVERSITAS SEBELAS MARET",
+      "link": "https://spmb.uns.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=353"
+    },
+    {
+      "no": "39",
+      "kode": "354",
+      "nama": "ISI SURAKARTA",
+      "link": "https://spmb.isi-ska.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=354"
+    },
+    {
+      "no": "40",
+      "kode": "355",
+      "nama": "UNIVERSITAS DIPONEGORO",
+      "link": "https://um.undip.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=355"
+    },
+    {
+      "no": "41",
+      "kode": "356",
+      "nama": "UNIVERSITAS NEGERI SEMARANG",
+      "link": "http://penerimaan.unnes.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=356"
+    },
+    {
+      "no": "42",
+      "kode": "357",
+      "nama": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+      "link": "http://pmb.walisongo.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=357"
+    },
+    {
+      "no": "43",
+      "kode": "361",
+      "nama": "UNIVERSITAS GADJAH MADA",
+      "link": "https://um.ugm.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=361"
+    },
+    {
+      "no": "44",
+      "kode": "362",
+      "nama": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "link": "http://pmb.uny.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=362"
+    },
+    {
+      "no": "45",
+      "kode": "363",
+      "nama": "UPN VETERAN YOGYAKARTA",
+      "link": "http://pmb.upnyk.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=363"
+    },
+    {
+      "no": "46",
+      "kode": "364",
+      "nama": "ISI YOGYAKARTA",
+      "link": "https://pmb.isi.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=364"
+    },
+    {
+      "no": "47",
+      "kode": "365",
+      "nama": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+      "link": "https://admisi.uin-suka.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=365"
+    },
+    {
+      "no": "48",
+      "kode": "371",
+      "nama": "UNIVERSITAS JEMBER",
+      "link": "https://unej.ac.id/pendaftaran/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=371"
+    },
+    {
+      "no": "49",
+      "kode": "372",
+      "nama": "UNIVERSITAS BRAWIJAYA",
+      "link": "https://selma.ub.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=372"
+    },
+    {
+      "no": "50",
+      "kode": "373",
+      "nama": "UNIVERSITAS NEGERI MALANG",
+      "link": "https://um.ac.id/akademik/seleksi-mahasiswa/jalur-seleksi-masuk/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=373"
+    },
+    {
+      "no": "51",
+      "kode": "374",
+      "nama": "UNIVERSITAS ISLAM NEGERI MALANG",
+      "link": "http://pmb.uin-malang.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=374"
+    },
+    {
+      "no": "52",
+      "kode": "381",
+      "nama": "UNIVERSITAS AIRLANGGA",
+      "link": "http://ppmb.unair.ac.id",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=381"
+    },
+    {
+      "no": "53",
+      "kode": "382",
+      "nama": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "link": "https://smits.its.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=382"
+    },
+    {
+      "no": "54",
+      "kode": "383",
+      "nama": "UNIVERSITAS NEGERI SURABAYA",
+      "link": "https://sipenmaru.unesa.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=383"
+    },
+    {
+      "no": "55",
+      "kode": "384",
+      "nama": "UNIVERSITAS TRUNOJOYO MADURA",
+      "link": "https://pmb.trunojoyo.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=384"
+    },
+    {
+      "no": "56",
+      "kode": "385",
+      "nama": "UPN VETERAN JAWA TIMUR",
+      "link": "https://simaba.upnjatim.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=385"
+    },
+    {
+      "no": "57",
+      "kode": "386",
+      "nama": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "link": "https://pmb.uinsby.ac.id/detail-pengumuman/39/pengumuman-sbmptn-2020",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=386"
+    },
+    {
+      "no": "58",
+      "kode": "511",
+      "nama": "UNIVERSITAS TANJUNGPURA",
+      "link": "http://scmb.untan.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=511"
+    },
+    {
+      "no": "59",
+      "kode": "521",
+      "nama": "UNIVERSITAS PALANGKARAYA",
+      "link": "https://pmb.upr.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=521"
+    },
+    {
+      "no": "60",
+      "kode": "531",
+      "nama": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "link": "https://ulm.ac.id/id/category/penerimaan-mahasiswa-baru/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=531"
+    },
+    {
+      "no": "61",
+      "kode": "541",
+      "nama": "UNIVERSITAS MULAWARMAN",
+      "link": "https://unmul.ac.id/page/pendaftaran-sarjana-1486971670.html",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=541"
+    },
+    {
+      "no": "62",
+      "kode": "542",
+      "nama": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "link": "https://itk.ac.id/pendaftaran/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=542"
+    },
+    {
+      "no": "63",
+      "kode": "551",
+      "nama": "UNIVERSITAS BORNEO TARAKAN",
+      "link": "https://pmb.borneo.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=551"
+    },
+    {
+      "no": "64",
+      "kode": "611",
+      "nama": "UNIVERSITAS UDAYANA",
+      "link": "https://e-registrasi.unud.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=611"
+    },
+    {
+      "no": "65",
+      "kode": "612",
+      "nama": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "link": "https://undiksha.ac.id/tag/pmb-undiksha/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=612"
+    },
+    {
+      "no": "66",
+      "kode": "613",
+      "nama": "ISI DENPASAR",
+      "link": "https://spmb.isi-dps.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=613"
+    },
+    {
+      "no": "67",
+      "kode": "621",
+      "nama": "UNIVERSITAS MATARAM",
+      "link": "https://pmb.unram.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=621"
+    },
+    {
+      "no": "68",
+      "kode": "631",
+      "nama": "UNIVERSITAS NUSA CENDANA",
+      "link": "https://undana.ac.id/admissions/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=631"
+    },
+    {
+      "no": "69",
+      "kode": "632",
+      "nama": "UNIVERSITAS TIMOR",
+      "link": "https://www.unimor.ac.id/pendaftaran-snmptn/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=632"
+    },
+    {
+      "no": "70",
+      "kode": "711",
+      "nama": "UNIVERSITAS HASANUDDIN",
+      "link": "https://unhas.ac.id/pmb/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=711"
+    },
+    {
+      "no": "71",
+      "kode": "712",
+      "nama": "UNIVERSITAS NEGERI MAKASSAR",
+      "link": "http://pmbm.unm.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=712"
+    },
+    {
+      "no": "72",
+      "kode": "713",
+      "nama": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+      "link": "http://pmb.uin-alauddin.ac.id/site/login",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=713"
+    },
+    {
+      "no": "73",
+      "kode": "721",
+      "nama": "UNIVERSITAS SAM RATULANGI",
+      "link": "https://www.unsrat.ac.id/Seleksi_Masuk/jalur_masuk",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=721"
+    },
+    {
+      "no": "74",
+      "kode": "722",
+      "nama": "UNIVERSITAS NEGERI MANADO",
+      "link": "https://penerimaan.unima.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=722"
+    },
+    {
+      "no": "75",
+      "kode": "731",
+      "nama": "UNIVERSITAS TADULAKO",
+      "link": "https://pmb.untad.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=731"
+    },
+    {
+      "no": "76",
+      "kode": "741",
+      "nama": "UNIVERSITAS SULAWESI BARAT",
+      "link": "https://unsulbar.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=741"
+    },
+    {
+      "no": "77",
+      "kode": "751",
+      "nama": "UNIVERSITAS HALUOLEO",
+      "link": "https://www.uho.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=751"
+    },
+    {
+      "no": "78",
+      "kode": "752",
+      "nama": "UNIVERSITAS NEGERI GORONTALO",
+      "link": "http://pmb.ung.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=752"
+    },
+    {
+      "no": "79",
+      "kode": "753",
+      "nama": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "link": "https://pmb.usn.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=753"
+    },
+    {
+      "no": "80",
+      "kode": "811",
+      "nama": "UNIVERSITAS PATTIMURA",
+      "link": "https://pmb.unpatti.ac.id",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=811"
+    },
+    {
+      "no": "81",
+      "kode": "821",
+      "nama": "UNIVERSITAS KHAIRUN",
+      "link": "http://pmb.unkhair.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=821"
+    },
+    {
+      "no": "82",
+      "kode": "911",
+      "nama": "UNIVERSITAS CENDERAWASIH",
+      "link": "https://www.uncen.ac.id/registrasi/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=911"
+    },
+    {
+      "no": "83",
+      "kode": "912",
+      "nama": "UNIVERSITAS MUSAMUS MERAUKE",
+      "link": "http://www.unmus.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=912"
+    },
+    {
+      "no": "84",
+      "kode": "913",
+      "nama": "ISBI TANAH PAPUA",
+      "link": "http://isbi-tanahpapua.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=913"
+    },
+    {
+      "no": "85",
+      "kode": "921",
+      "nama": "UNIVERSITAS PAPUA",
+      "link": "https://bpak.unipa.ac.id/",
+      "profil": "https://sidata-ptn.ltmpt.ac.id/ptn_sb.php?ptn=921"
+    }
+  ]
